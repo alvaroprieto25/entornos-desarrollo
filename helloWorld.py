@@ -1,5 +1,5 @@
 while True:
 	print("Hola mundo!");
-	print("Francisco García Pérez");
+	print("Hola soy Fran");
 	print("Holasoyivan:D")
 
