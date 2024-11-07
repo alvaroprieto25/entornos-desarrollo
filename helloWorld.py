@@ -1,1 +1,3 @@
-print("Hola mundo!");
+while True:
+	print("Hola mundo!");
+
