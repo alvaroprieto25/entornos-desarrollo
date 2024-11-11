@@ -9,3 +9,4 @@ while True:
 	print("Hola buenas soy ivan")
 	print("Hola, soy Alejandro")
 	print("Hola soy Pablo!")
+	print("Hola, soy Leonard")
