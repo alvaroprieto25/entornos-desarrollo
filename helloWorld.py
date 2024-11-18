@@ -10,3 +10,4 @@ while True:
 	print("Hola, soy Alejandro")
 	print("Hola soy Pablo!")
 	print("Hola, soy Leonard")
+	print("Hola, soy ÓscarS")
